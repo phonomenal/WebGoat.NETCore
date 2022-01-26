@@ -1,5 +1,7 @@
 # WebGoat.NETCore [Preview version]
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/2aa3a816-ebea-43cd-af27-a2c5d66eec0b.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/webgoat.netcore?orgId=650162616495)  
+
 ## The next generation of the WebGoat example project to demonstrate OWASP TOP 10 vulnerabilities
 
 This is a re-implementation of the original [WebGoat project for .NET](https://github.com/rappayne/WebGoat.NET).
